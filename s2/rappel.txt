@@ -1,0 +1,13 @@
+la structure : doctype - html - head:title - body
+
+head : meta=> charset viewport description keywords ...
+
+bloc vs inline
+
+AT : centre span (element inline)
+
+list item : 
+
+style => css
+
+html => structure de la page
