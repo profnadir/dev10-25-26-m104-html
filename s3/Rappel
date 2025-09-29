@@ -1,0 +1,21 @@
+génération du texte : lorem
+
+les listes  : ul(li) ol(li) dl(dt - dd)
+
+les liens : a : href="?"
+
+absolu : https://www.ofppt.ma
+relatif : contact.html - pages/front/contact.html - ../contact.html
+a l'int de la page : id="yyy" => #yyy
+
+target="_self" la meme fenetre
+target="_blank" autre fenetre
+
+live server
+
+CV
+
+html => la structure de la page
+
+
+
