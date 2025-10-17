@@ -1,0 +1,19 @@
+les formulaires  : recevoir les données 
+
+http://127.0.0.1:5500/s8/login.php?login=&Email=&Password=&color=%23000000&date=&datetime=&file=&number=&range=50&langages=on&token=11fsa4554fsa
+
+http://127.0.0.1:5500/s8/login.php?login=&Email=&Password=&color=%23000000&date=&datetime=&file=&number=&range=50&langages=on&langages=on&token=11fsa4554fsa
+
+http://127.0.0.1:5500/s8/login.php?login=&Email=&Password=&color=%23000000&date=&datetime=&file=&number=&range=50&langages=html&token=11fsa4554fsa
+
+http://127.0.0.1:5500/s8/login.php?login=&Email=&Password=&color=%23000000&date=&datetime=&file=&number=&range=50&langages=html&langages=js&token=11fsa4554fsa
+
+
+http://127.0.0.1:5500/s8/login.php?login=&Email=&Password=&color=%23000000&date=&datetime=&file=&number=&range=50&groupe=on&token=11fsa4554fsa
+
+http://127.0.0.1:5500/s8/login.php?login=&Email=&Password=&color=%23000000&date=&datetime=&file=&number=&range=50&groupe=dev102&token=11fsa4554fsa
+
+http://127.0.0.1:5500/s8/login.php?login=&Email=&Password=&color=%23000000&date=&datetime=&file=&number=0&range=50&pays=Maroc&token=11fsa4554fsa
+http://127.0.0.1:5500/s8/login.php?login=&Email=&Password=&color=%23000000&date=&datetime=&file=&number=0&range=50&pays=1&token=11fsa4554fsa
+http://127.0.0.1:5500/s8/login.php?login=&Email=&Password=&color=%23000000&date=&datetime=&file=&number=0&range=50&pays=&token=11fsa4554fsa
+http://127.0.0.1:5500/s8/login.php?login=&Email=&Password=&color=%23000000&date=&datetime=&file=&number=0&range=50&pays=opt3&token=11fsa4554fsa
